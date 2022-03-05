@@ -11,9 +11,9 @@
 <p>Framework : spring </p>
 
 observability
-Jeager tracing
-Prometheus metrics / actuator
-Grafana
+<p>Jeager tracing url : port "9000/search" </p>
+Prometheus metrics / actuator port "8080/actuator/prometheus" query port "9090"
+Grafana port "3000"
 
 tests
 working...
